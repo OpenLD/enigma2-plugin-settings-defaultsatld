@@ -1,0 +1,85 @@
+#NAME IPTV Latinos
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//lv13msssopsccc.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8:RCN
+#DESCRIPTION RCN
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8:Canal de las Estrellas
+#DESCRIPTION Canal de las Estrellas
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?:Peliculas en Español
+#DESCRIPTION Peliculas en Español
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//c5n.stweb.tv%3a1935/c5n/live/playlist.m3u8:CSN
+#DESCRIPTION CSN
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//4.31.30.140%3a1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590:HCH Honduras
+#DESCRIPTION HCH Honduras
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//video.hosteris.com/tvacapulco/tvacapulco:TV Acapulco
+#DESCRIPTION TV Acapulco
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/tvuno1/tvuno1/playlist.m3u8:Tv UNO
+#DESCRIPTION Tv UNO
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//willax.mediastream.pe/vv_willax/livestream:Willax Peru
+#DESCRIPTION Willax Peru
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/ustreamVideo/10248660/streams/live/playlist.m3u8:Red UNO Bolivia
+#DESCRIPTION Red UNO Bolivia
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtsp%3a//stream.mgzn.tv/live/mgzntv/mgzntv:Magazine Argenina
+#DESCRIPTION Magazine Argenina
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//video.crearchile.com%3a8080/live/canal2.mp4/playlist.m3u8?:Canal 2 San Antonio
+#DESCRIPTION Canal 2 San Antonio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//hd.worldkast.com%3a1935/8436/8436/playlist.m3u8:Musica SI
+#DESCRIPTION Musica SI
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8?:Enlace Juvenil
+#DESCRIPTION Enlace Juvenil
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//hd.worldkast.com/8512/smil%3a8512.smil/playlist.m3u8:CB Televisión Michoacán
+#DESCRIPTION CB Televisión Michoacán
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//cdns840stu1010.multistream.net/telecaribelive/amlst%3alive/master.m3u8:Telecaribe
+#DESCRIPTION Telecaribe
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//painel.serveron.com.br/8172/8172:Canal 41 Mar de Plata
+#DESCRIPTION Canal 41 Mar de Plata
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//162.212.176.83%3a8080/sulavision.m3u8?:FOX Sports
+#DESCRIPTION FOX Sports
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//186.155.200.118%3a1935/live/ColombiasuMusica:TV Polanco
+#DESCRIPTION TV Polanco
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtsp%3a//stream.tn.com.ar/live/tnhd1:TN Argentina
+#DESCRIPTION TN Argentina
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8:Canal U
+#DESCRIPTION Canal U
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8:TVO Canal 23
+#DESCRIPTION TVO Canal 23
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8:Megavision
+#DESCRIPTION Megavision
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/cana6/cana6/playlist.m3u8:Canal 6 Costa Rica
+#DESCRIPTION Canal 6 Costa Rica
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.rpctv.com/rpctv/tm.smil/playlist.m3u8?:RPC TV
+#DESCRIPTION RPC TV
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//www.oncetvmexicolive.tv%3a1935/livepkgr2/smil%3aint.smil/playlist.m3u8?:Canal Once Int
+#DESCRIPTION Canal Once Int
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/ustreamVideo/13870671/streams/live/playlist.m3u8?:Canal 13 Nicaragua
+#DESCRIPTION Canal 13 Nicaragua
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8:SINART Canal Trece
+#DESCRIPTION SINART Canal Trece
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//187.237.253.94%3a8134/hls-live/livepkgr/_definst_/liveevent.m3u8?:Capital 21
+#DESCRIPTION Capital 21
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//fss28.streamhoster.com%3a1935/lv_tvmexiquense/broadcast1/playlist.m3u8?:Television Mexiquense
+#DESCRIPTION Television Mexiquense
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//159.16.243.10/live/canal4/canal4:Canal 4
+#DESCRIPTION Canal 4
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/ustreamVideo/4811076/streams/live/playlist.m3u8?:Canal 33 El Salvador
+#DESCRIPTION Canal 33 El Salvador
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?:Azteca Honduras
+#DESCRIPTION Azteca Honduras
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?:Capital TV
+#DESCRIPTION Capital TV
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//cdn.streamingmedia.cl%3a1935/live/rtmp.stream/hasbahca.m3u8?:Canal 2 Valparaiso
+#DESCRIPTION Canal 2 Valparaiso
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//tst.es.flash.glb.ipercast.net/tst.es-live/live?:Hit TV
+#DESCRIPTION Hit TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//201.219.100.30%3a1935/telpintv/ttv.stream_720p/playlist.m3u8:Telpin Canal 2 HD Argentina
+#DESCRIPTION Telpin Canal 2 HD Argentina
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//76.79.146.124/live/TVCSB:TVC LATINO
+#DESCRIPTION TVC LATINO
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/ustreamVideo/20555006/streams/live/playlist.m3u8?:HonduVision
+#DESCRIPTION HonduVision
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8:Teveo
+#DESCRIPTION Teveo
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:mms%3a//streamqm.uigc.net/qmusica:Quiero Musica
+#DESCRIPTION Quiero Musica
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8:360TV
+#DESCRIPTION 360TV
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//178.32.53.254/radiovida/mobile/playlist.m3u8:RTV
+#DESCRIPTION RTV

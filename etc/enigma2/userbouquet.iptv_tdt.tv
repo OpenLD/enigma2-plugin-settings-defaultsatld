@@ -51,6 +51,14 @@
 #DESCRIPTION ETB
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//bit.ly/1Nwh4ZW:TVCanarias
 #DESCRIPTION TVCanarias
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//62.210.141.18%3a1935/directo/lancelot.television:LancelotTV
+#DESCRIPTION LancelotTV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//188.165.135.22/tindayatv/livestream/playlist.m3u8:TindayaTV
+#DESCRIPTION TindayaTV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//teledifusion.tv%3a1935/dia/dia/playlist.m3u8:DiaTenerife
+#DESCRIPTION DiaTenerife
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//tinyurl.com/pdb6r9j:Mediterraneo TV
+#DESCRIPTION Mediterraneo TV
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//cdn.s10.eu.nice264.com/niceLiveServer/cyl_cyltvlivem_MB_698:Castilla y Leon
 #DESCRIPTION Castilla y Leon
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//149.11.34.6%3a1935/live/aragontv.stream/vcx7.m3u8:Aragón
@@ -71,3 +79,43 @@
 #DESCRIPTION Kiss TV
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//streaming.enetres.net%3a80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8:13TV
 #DESCRIPTION 13TV
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8:MalagaTV
+#DESCRIPTION MalagaTV
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//servers10.com%3a1935/canal45tv/canal45tv/chunklist_w961719399.m3u8:Jaen
+#DESCRIPTION Jaen
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//cdnvideo.webvideocore.net/livenl/out_71l7crusvo4c0kk4os0k/index.m3u8:CostaNoreste
+#DESCRIPTION CostaNoreste
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//teledifusion.tv/teleelx/teleelxlive:TV Elche
+#DESCRIPTION TV Elche
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.tvmelilla.es%3a1935/tvmelilla/live/playlist.m3u8:Melilla TV
+#DESCRIPTION Melilla TV
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//teledifusion.tv%3a1935/rioja/rioja/playlist.m3u8:Canal Rioja
+#DESCRIPTION Canal Rioja
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//cdns724ste1010.multistream.net/tgsietelive/amlst%3atvgranada/chunklist_b750000.m3u8:TV Granada
+#DESCRIPTION TV Granada
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//149.11.34.6/live/telebilbao.stream:Tele Bilbao
+#DESCRIPTION Tele Bilbao
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//91.121.143.193%3a1935/liverepeater/8TV/8aldia-directe:TV8
+#DESCRIPTION TV8
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//tvgirona.dnssw.net/live/Icontouch:Girona TV
+#DESCRIPTION Girona TV
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//194.158.80.31/live/web:Andorra
+#DESCRIPTION Andorra
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//149.11.34.6/live/imastv.stream:Ciudad Real
+#DESCRIPTION Ciudad Real
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//cls.provideo.es/marbellatv/livestream/playlist.m3u8:Marbella TV
+#DESCRIPTION Marbella TV
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8:Huelva Costa
+#DESCRIPTION Huelva Costa
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//teledifusion.tv/mijastv/mijastvlive:Mijas
+#DESCRIPTION Mijas
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//teledifusion.tv%3a1935/levantetvlive/levantetvlive/playlist.m3u8:Levante
+#DESCRIPTION Levante
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:mms%3a//87.106.208.121/stv:Rioja TV
+#DESCRIPTION Rioja TV
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtsp%3a//streaming.arsenet.com/tvf:Ferrol
+#DESCRIPTION Ferrol
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//flash0.80385-live0.dna.qbrick.com%3a1935/80385-live0/costa/playlist.m3u8:Costa Del Sol
+#DESCRIPTION Costa Del Sol
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//directe.tvbadalona.cat/live/myStream.sdp:Tele Badalona
+#DESCRIPTION Tele Badalona
