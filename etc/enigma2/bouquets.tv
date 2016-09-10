@@ -1,5 +1,5 @@
 #NAME Bouquets (TV)
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.movistar_astra.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.movistar_astra_.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.canalsat.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.sky_alemania.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.canal_digitaal.tv
@@ -9,12 +9,13 @@
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.telesat.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.skylink.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.orf_digital.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.alemania_fta.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.bobbles_tv.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.alemanes_free.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.infantil.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.deportes.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.musica.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.erotic.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.adultos.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.tdt.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.iptv_tdt.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.iptv_latinos.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.LastScanned.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.mas_iptv.tv
