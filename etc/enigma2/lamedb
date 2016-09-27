@@ -6421,9 +6421,9 @@ BETIS TV
 p:TL09SE_Sevilla,c:000136,c:010140,c:030136
 end
 Editor:DreamSet 2.4.8 - http://www.dreamset-editor.com
-Author:OpenLD based in Sorys List.
+Author:OpenLD (Channels list based in Sorys List).
 Notes:Start
-Lists channels OpenLD are based on lists Sorys. If you want the original list can always get it in http://listassorys.com/phpbb/viewforum.php?f=2.
+Channels list are based on Sorys lists. If you want the original list can always get it in http://listassorys.com/phpbb/viewforum.php?f=2.
 
 Our repository is: https://github.com/OpenLD/enigma2-plugin-settings-defaultsatld
 Notes:End
