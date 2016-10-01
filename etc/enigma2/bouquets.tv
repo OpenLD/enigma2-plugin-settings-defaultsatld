@@ -1,23 +1,23 @@
 #NAME Bouquets (TV)
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.movistar_astra.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.canalsat.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.sky_alemania.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.canal_digitaal.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.austriasat.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.hd.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.tnt_sat.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.telesat.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.skylink.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.orf_digital.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.bobbles_tv.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.alemanes_free.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.infantil.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.deportes.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.musica.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.adultos.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.tdt.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.iptv_tdt.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.iptv_latinos.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.mas_iptv.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquetsmp.iptv.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.LastScanned.tv
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.movistar_astra.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.canalsat.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.sky_alemania.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.canal_digitaal.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.austriasat.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.hd.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.tnt_sat.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.telesat.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.skylink.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.orf_digital.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.bobbles_tv.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.alemanes_free.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.infantil.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.deportes.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.musica.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.adultos.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.tdt.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.iptv_tdt.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.iptv_latinos.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mas_iptv.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.iptv_unicast.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.LastScanned.tv" ORDER BY bouquet
