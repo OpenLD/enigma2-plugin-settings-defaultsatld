@@ -1,78 +1,86 @@
 #NAME IPTV TDT
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8:La 1
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//rtvegeofs.fplive.net%3a1935/rtvegeoargmex-live-live/RTVE_LA1_LV3_WEB_GL7 swfUrl=http%3a//swf.rtve.es/swf/4.3.13/RTVEPlayerVideo.swf pageUrl=http%3a//www.rtve.es/directo/la-1/ live=true swfVfy=true:La 1
 #DESCRIPTION La 1
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8:La 2
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//rtvefs.fplive.net%3a1935/rtve-live-live/RTVE_LA2_LV3_WEB_GL0 swfUrl=http%3a//swf.rtve.es/swf/4.3.13/RTVEPlayerVideo.swf pageUrl=http%3a//www.rtve.es/directo/la-2/ live=true swfVfy=true:La 2
 #DESCRIPTION La 2
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8:Antena 3
 #DESCRIPTION Antena 3
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mdsios2-lh.akamaihd.net/i/mitele/esmediaset_22@168474/index_0_av-p.m3u8:Cuatro
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mediasethls-lh.akamaihd.net/i/mitele/cuatro_ng@393134/index_700_av-p.m3u8:Cuatro
 #DESCRIPTION Cuatro
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-p.m3u8:Telecinco
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m3u8:Telecinco
 #DESCRIPTION Telecinco
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8:La Sexta
 #DESCRIPTION La Sexta
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//rtvegeofs.fplive.net%3a1935/rtvegeo-live-live/RTVE_TDP_LV3_WEB_GL1 swfUrl=http%3a//swf.rtve.es/swf/4.3.13/RTVEPlayerVideo.swf pageUrl=http%3a//www.rtve.es/directo/teledeporte/ live=true swfVfy=true:Canal 24 horas
+#DESCRIPTION Canal 24 horas
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//rtvefs.fplive.net%3a443/rtve2-live-live/RTVE_24H_LV3_WEB_GL8 swfUrl=http%3a//swf.rtve.es/swf/4.3.13/RTVEPlayerVideo.swf pageUrl=http%3a//www.rtve.es/directo/canal-24h/ live=true swfVfy=true:Teledeporte
+#DESCRIPTION Teledeporte
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//rtvefs.fplive.net%3a1935/rtve-live-live/RTVE_iRTVE24_LV3_WEB_GL0 swfUrl=http%3a//swf.rtve.es/pages/rtve-player-app/2.3.0/js/swf/RTVEPlayer.swf pageUrl=http%3a//www.rtve.es/television/60-aniversario-tve/ live=true swfVfy=true:iRTVE24
+#DESCRIPTION iRTVE24
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8:Mega
 #DESCRIPTION Mega
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/master.m3u8:Neox
 #DESCRIPTION Neox
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/geonova_1@379404/index_4_av-p.m3u8:Nova
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8:Nova
 #DESCRIPTION Nova
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8:TeleDeporte
-#DESCRIPTION TeleDeporte
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//mediasethls-lh.akamaihd.net/i/mitele/bemad_g@320708/index_500_av-b.m3u8:BE MAD
 #DESCRIPTION BE MAD
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.zetatv.cf/pw/ten_azj987s/chunklist.m3u8:TEN
 #DESCRIPTION TEN
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.zetatv.cf/pw/fdfhd_xrewtt/chunklist.m3u8:FDF
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8:AtreSeries
+#DESCRIPTION AtreSeries
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.zetatv.cf/pw/fdfhd_xrewtt/chunklist.m3u8:FDF
 #DESCRIPTION FDF
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.zetatv.cf/pw/energy_azhls60/chunklist.m3u8:ENERGY
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//mediasethls-lh.akamaihd.net/i/mitele/energy_g@393137/index_500_av-p.m3u8:ENERGY
 #DESCRIPTION ENERGY
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.zetatv.cf/pw/diniiiii_9fil4ag/chunklist.m3u8:DIVINITY
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//mediasethls-lh.akamaihd.net/i/mitele/divinity_g@393139/index_500_av-p.m3u8:DIVINITY
 #DESCRIPTION DIVINITY
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8:RealMadridTV
 #DESCRIPTION RealMadridTV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8:8tv
-#DESCRIPTION 8tv
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//flash0.80670-live0.dna.qbrick.com%3a1935/80670-live0/murciatv/playlist.m3u8:C7Murcia
-#DESCRIPTION C7Murcia
+#DESCRIPTION 8t
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//flash0.80670-live0.dna.qbrick.com%3a1935/80670-live0/ playpath=murciatv:7TVMurcia
+#DESCRIPTION 7TVMurcia
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//rtvcm-wow04.flumotion.com/rtvcm/rtvcm/playlist.m3u8:RTVCM TV
+#DESCRIPTION RTVCM TV
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8:CastillaLaMancha
 #DESCRIPTION CastillaLaMancha
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//tinyurl.com/onwfjoh:ExtremaduraTV
-#DESCRIPTION ExtremaduraTV
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevisionh264.flv.m3u:CanalSur
-#DESCRIPTION CanalSur
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//eventos.rtva.stream.flumotion.com/rtva/eventos.flv.m3u8:CanalSur 2
-#DESCRIPTION CanalSur 2
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//champions.rtva.stream.flumotion.com/rtva/champions.flv.m3u:CanalSur 3
-#DESCRIPTION CanalSur 3
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//cls.todostreaming.eu/unatv/live/playlist.m3u8:8CadizTV
-#DESCRIPTION 8CadizTV
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8:AndaluciaTV
+#DESCRIPTION AndaluciaTV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//cls.todostreaming.eu/unatv/live/playlist.m3u8:8 Cadiz
+#DESCRIPTION 8 Cadiz
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/smil%3alive.smil/master.m3u8:Canal 7 TELEVALENCIA
+#DESCRIPTION Canal 7 TELEVALENCIA
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//universalhdlive.elmundo.es/i/dr22_1@104884/master.m3u8:EL MUNDO TV
+#DESCRIPTION EL MUNDO TV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp%3aes3_web/chunklist_b798000_DVR.m3u8:Esport3
 #DESCRIPTION Esport3
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp%3ac33_web/chunklist_b798000.m3u8:33/Super3
+#DESCRIPTION 33/Super3
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp%3atv3_web/chunklist_b798000.m3u8:TV3
 #DESCRIPTION TV3
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp%3atv3cat_web/chunklist_b798000.m3u8:TV3 CAT
+#DESCRIPTION TV3 CAT
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp%3a324_web/chunklist_b798000.m3u8:3/24
 #DESCRIPTION 3/24
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8:ETB
 #DESCRIPTION ETB
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8:TVCanaria
 #DESCRIPTION TVCanaria
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//streamrtvcdrb.mad.idec.net/rtvcnet/rtvcnet.drb.stream/playlist.m3u8:TVCanaria NET
-#DESCRIPTION TVCanaria NET
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//62.210.141.18%3a1935/directo/lancelot.television:LancelotTV
 #DESCRIPTION LancelotTV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//188.165.135.22/tindayatv/livestream/playlist.m3u8:TindayaTV
 #DESCRIPTION TindayaTV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//teledifusion.tv%3a1935/dia/dia/playlist.m3u8:DiaTenerife
 #DESCRIPTION DiaTenerife
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//tinyurl.com/pdb6r9j:Mediterraneo TV
-#DESCRIPTION Mediterraneo TV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8:IB3
 #DESCRIPTION IB3
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8:Telemadrid
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadrid/_definst_/live/stream1.m3u8:Telemadrid
 #DESCRIPTION Telemadrid
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//media3.crtvg.es/live/tvga/hasbahca.m3u8:TV Galicia
-#DESCRIPTION TV Galicia
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8:Galicia TV Europa
+#DESCRIPTION Galicia TV Europa
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8:Galicia TV America
+#DESCRIPTION Galicia TV America
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//tst.es.flash.glb.ipercast.net/tst.es-live//live:Kiss TV
 #DESCRIPTION Kiss TV
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//streaming.enetres.net%3a80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8:13TV
@@ -83,8 +91,6 @@
 #DESCRIPTION Jaen
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//teledifusion.tv/teleelx/teleelxlive:TV Elche
 #DESCRIPTION TV Elche
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//teledifusion.tv%3a1935/rioja/rioja/playlist.m3u8:Canal Rioja
-#DESCRIPTION Canal Rioja
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//91.121.143.193%3a1935/liverepeater/8TV/8aldia-directe:TV8
 #DESCRIPTION TV8
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//tvgirona.dnssw.net/live/Icontouch:Girona TV
@@ -97,23 +103,27 @@
 #DESCRIPTION Huelva Costa
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//teledifusion.tv%3a1935/levantetvlive/levantetvlive/playlist.m3u8:Levante
 #DESCRIPTION Levante
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:mms%3a//87.106.208.121/stv:Rioja TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//teledifusion.tv%3a1935/rioja/rioja/playlist.m3u8:Canal Rioja
+#DESCRIPTION Canal Rioja
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//87.106.208.121/stv:Rioja TV
 #DESCRIPTION Rioja TV
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtsp%3a//streaming.arsenet.com/tvf:Ferrol
-#DESCRIPTION Ferrol
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//directe.tvbadalona.cat/live/myStream.sdp:Tele Badalona
 #DESCRIPTION Tele Badalona
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live//stream1:Extremadura TV
+#DESCRIPTION Extremadura TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//streaming2.radiohuesca.com/live/huescatv:Huesca TV
+#DESCRIPTION Huesca TV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//cls.telebilbao.es/telebilbao/livestream/playlist.m3u8:BILBAO
 #DESCRIPTION BILBAO
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//teledifusion.tv%3a1935/rtvcetv/rtvcetvlive/playlist.m3u8:RTVCEUTA
 #DESCRIPTION RTVCEUTA
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8:Sevilla FC
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//195.10.2.204/melilla/live-hq.flv?GKID=d6ebd674204e11e68c8452540051a7c5:TV Melilla
+#DESCRIPTION TV Melilla
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-b.m3u8:Sevilla FC
 #DESCRIPTION Sevilla FC
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//cls.elitehd-audiovisuales.com/betistv/streaming/playlist.m3u8:Betis TV
-#DESCRIPTION Betis TV
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//streaming.enetres.net/CD9843D3A4014583ACED8D757D30EAE5022/mobile/playlist.m3u8:Zaragoza TV
-#DESCRIPTION Zaragoza TV
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//149.11.34.6%3a1935/live/aragontv.stream/vcx7.m3u8:Aragón
-#DESCRIPTION Aragón
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//cdn.s10.eu.nice264.com/niceLiveServer/cyl_cyltvlivem_MB_698:Castilla y Leo
-#DESCRIPTION Castilla y Leo
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8:ElCorreoTV
+#DESCRIPTION ElCorreoTV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//195.55.74.208/aragontv/hls-live/stream.m3u8:ARAGON TV
+#DESCRIPTION ARAGON TV
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//cdn.s6.eu.nice264.com/niceLiveServer/cyl_cyltvlivem_MB_698:CylTV
+#DESCRIPTION CylTV
