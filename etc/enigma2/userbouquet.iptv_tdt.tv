@@ -1,22 +1,24 @@
 #NAME IPTV TDT
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//rtvegeofs.fplive.net%3a1935/rtvegeoargmex-live-live/RTVE_LA1_LV3_WEB_GL7 swfUrl=http%3a//swf.rtve.es/swf/4.3.13/RTVEPlayerVideo.swf pageUrl=http%3a//www.rtve.es/directo/la-1/ live=true swfVfy=true:La 1
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8:La 1
 #DESCRIPTION La 1
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//rtvefs.fplive.net%3a1935/rtve-live-live/RTVE_LA2_LV3_WEB_GL0 swfUrl=http%3a//swf.rtve.es/swf/4.3.13/RTVEPlayerVideo.swf pageUrl=http%3a//www.rtve.es/directo/la-2/ live=true swfVfy=true:La 2
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=1500000.m3u8:La 2
 #DESCRIPTION La 2
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8:Antena 3
 #DESCRIPTION Antena 3
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mediasethls-lh.akamaihd.net/i/mitele/cuatro_ng@393134/index_700_av-p.m3u8:Cuatro
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/Z3ZnlnNTE6YSvclfoWNEEc0h-67DuLjw/cn/25976_4.m3u8:Cuatro
 #DESCRIPTION Cuatro
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m3u8:Telecinco
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/25924_4.m3u8:Telecinco
 #DESCRIPTION Telecinco
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8:La Sexta
 #DESCRIPTION La Sexta
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//rtvegeofs.fplive.net%3a1935/rtvegeo-live-live/RTVE_TDP_LV3_WEB_GL1 swfUrl=http%3a//swf.rtve.es/swf/4.3.13/RTVEPlayerVideo.swf pageUrl=http%3a//www.rtve.es/directo/teledeporte/ live=true swfVfy=true:Canal 24 horas
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_lv3_aosv4_gl8/24h_lv3_aosv4_gl8.isml/24h_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8:Canal 24 horas
 #DESCRIPTION Canal 24 horas
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//rtvefs.fplive.net%3a443/rtve2-live-live/RTVE_24H_LV3_WEB_GL8 swfUrl=http%3a//swf.rtve.es/swf/4.3.13/RTVEPlayerVideo.swf pageUrl=http%3a//www.rtve.es/directo/canal-24h/ live=true swfVfy=true:Teledeporte
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_lv3_aosv4_gl8/24h_lv3_aosv4_gl8.isml/24h_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8:Canal 24 horas+
+#DESCRIPTION Canal 24 horas+
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdp_lv3_aosv4_gl1/tdp_lv3_aosv4_gl1.isml/tdp_lv3_aosv4_gl1-audio=128000-video=1500000.m3u8:Teledeporte
 #DESCRIPTION Teledeporte
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//rtvefs.fplive.net%3a1935/rtve-live-live/RTVE_iRTVE24_LV3_WEB_GL0 swfUrl=http%3a//swf.rtve.es/pages/rtve-player-app/2.3.0/js/swf/RTVEPlayer.swf pageUrl=http%3a//www.rtve.es/television/60-aniversario-tve/ live=true swfVfy=true:iRTVE24
-#DESCRIPTION iRTVE24
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdp_lv3_aosv4_gl1/tdp_lv3_aosv4_gl1.isml/tdp_lv3_aosv4_gl1-audio=128000-video=1500000.m3u8:Teledeporte+
+#DESCRIPTION Teledeporte+
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8:Mega
 #DESCRIPTION Mega
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/master.m3u8:Neox
