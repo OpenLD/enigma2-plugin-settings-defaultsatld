@@ -1,0 +1,65 @@
+#NAME IPTV Extra
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8:360 DEPORTES
+#DESCRIPTION 360 DEPORTES
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//186.33.227.198/DXTV/smil%3aDXTV.smil/playlist.m3u8:DXTV
+#DESCRIPTION DXTV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//motorsport.hopto.org%3a8080/:motorsport
+#DESCRIPTION motorsport
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//208.92.36.158/ipad/live/nba_ipad_1240.m3u8:Versus HD (US)
+#DESCRIPTION Versus HD (US)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8:Canal del Deporte Olimpico - CDO
+#DESCRIPTION Canal del Deporte Olimpico - CDO
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8:TVA Montreal
+#DESCRIPTION TVA Montreal
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//208.92.36.158/ipad/live/nba_ipad_1240.m3u8:NHL Network
+#DESCRIPTION NHL Network
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8:Win Sports Col
+#DESCRIPTION Win Sports Col
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//89.163.148.31%3a8000/live/craig/craig/8536.m3u8:WWE HD
+#DESCRIPTION WWE HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//89.163.148.31%3a8000/live/craig/craig/8537.m3u8:Mio Stadium Live
+#DESCRIPTION Mio Stadium Live
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//89.163.148.31%3a8000/live/craig/craig/8506.m3u8:MMA FIGHT
+#DESCRIPTION MMA FIGHT
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//89.163.148.31%3a8000/live/craig/craig/8497.m3u8:Fight Network
+#DESCRIPTION Fight Network
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//89.163.148.31%3a8000/live/craig/craig/8481.m3u8:Sport1 US HD
+#DESCRIPTION Sport1 US HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//89.163.148.31%3a8000/live/craig/craig/8473.m3u8:Motor Sports 7 HD
+#DESCRIPTION Motor Sports 7 HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//89.163.148.31%3a8000/live/craig/craig/8463.m3u8:BYU Sports TV HD
+#DESCRIPTION BYU Sports TV HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//89.163.148.31%3a8000/live/craig/craig/8516.m3u8:TBS HD
+#DESCRIPTION TBS HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//89.163.148.31%3a8000/live/craig/craig/8485.m3u8:Toonami Aftermath
+#DESCRIPTION Toonami Aftermath
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//89.163.148.31%3a8000/live/craig/craig/8484.m3u8:The Florida Channel
+#DESCRIPTION The Florida Channel
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//89.163.148.31%3a8000/live/craig/craig/8476.m3u8:Pocker Central
+#DESCRIPTION Pocker Central
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//89.163.148.31%3a8000/live/craig/craig/8475.m3u8:Nasa TV HD
+#DESCRIPTION Nasa TV HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//89.163.148.31%3a8000/live/craig/craig/8454.m3u8:VH1 Classic
+#DESCRIPTION VH1 Classic
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//89.163.148.31%3a8000/live/craig/craig/8453.m3u8:TV3
+#DESCRIPTION TV3
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8:London Live
+#DESCRIPTION London Live
+#SERVICE 1:64:6c:0:0:0:0:0:0:0:
+#DESCRIPTION :::::ADULTOS::
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//main2sb.everyon.tv%3a1935/etv2sb/_definst_/phd10499:Spice Tv
+#DESCRIPTION Spice Tv
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//edge2.everyon.tv/etv2sb/phd10769/playlist.m3u8:Playy 19+
+#DESCRIPTION Playy 19+
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//main1sb.everyon.tv%3a1935/etv1sb/pld10497/exabytetv.m3u8:Playboy Asia
+#DESCRIPTION Playboy Asia
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//main2sb.everyon.tv%3a1935/etv2sb/pld10772/HasBahCa.m3u8:But Go (18+)
+#DESCRIPTION But Go (18+)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//edge2.everyon.tv/etv2sb//pld10499:PLAYBOY TV
+#DESCRIPTION PLAYBOY TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//main2sb.everyon.tv%3a1935/etv2sb/pld10771/HasBahCa.m3u8:Sakura
+#DESCRIPTION Sakura
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//main2sb.everyon.tv%3a1935/etv2sb/pld10062/HasBahCa.m3u8:Live Ting
+#DESCRIPTION Live Ting
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//edge1.everyon.tv/etv1sb/phd10927:Penthouse
+#DESCRIPTION Penthouse
